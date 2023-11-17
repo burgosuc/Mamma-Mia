@@ -1,0 +1,28 @@
+
+#root{
+  font-family: "Inconsolata", monospace;
+  font-weight: 500;
+}
+.Navbar{
+  background-color: rgb(189, 13, 13);
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+}
+.container1{
+  display: flex;
+  justify-content: start;
+}
+.container2{
+  display: flex;
+  justify-content: end;
+}
+.imgicons{
+  width: 60px;
+  height: 60px;
+}
+.pnavbar{
+  color: white;
+  margin: 10px;
+  font-size: 25px;
+}
